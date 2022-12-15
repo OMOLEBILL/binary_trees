@@ -4,7 +4,7 @@
 size_t binary_tree_height1(const binary_tree_t *tree);
 
 /**
- * binary_tree_height - find the height of a node
+ * binary_tree_height1 - find the height of a node
  * @tree: root node
  * Return: 0 if tree is NULL
  **/
